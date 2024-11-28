@@ -19,7 +19,7 @@ $etudiants = $etudiantManager->getEtudiants();
     </style>
 </head>
 <body>
-<h1>Let's display All our Students</h1>
+<h1>Let's display All our Student</h1>
 <table>
 <tr>
     <th>Namee</th>
